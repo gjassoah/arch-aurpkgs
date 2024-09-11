@@ -10,4 +10,3 @@ pkgbase = python-asyncio-contextmanager
 	md5sums = c8ce0047d83dfcb6654debd8a434d7b7
 
 pkgname = python-asyncio-contextmanager
-
